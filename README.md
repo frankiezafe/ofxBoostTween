@@ -14,6 +14,19 @@ See videos for demos:
 
 Have fun!
 
+## features ##
+
+*   repeat count or forever
+*   palindrome mode for repeat
+*   event system
+*   20 types of interpolation
+*   handle boolean, string, and callbacks
+*   time speed control (slow motion or fast forward) - negative times are not handled
+*   asynchronous or synchronous
+*   easy tweens accumulation on the same pointer
+*   reusable configurations of tweens
+*   destruction of tweens while running
+
 ## dependencies ##
 
 Tweener package is fully independant from openframeworks and rely on boost library for threading and callbacks management.
