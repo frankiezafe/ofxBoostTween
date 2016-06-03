@@ -1,6 +1,6 @@
 # ofxBoostTween #
 
-This addon allows you to animate any kind of object in openframeworks.
+This addon allows you to animate any kind of object in openframeworks. Based on [Tween](https://bitbucket.org/frankiezafe/tween)
 
 It supports all types (int, bool, float, etc.) and all structures and objects where '+', '-', '*' and '=' operators are overloaded (ofVec2f for instance).
 
