@@ -17,12 +17,12 @@ Have fun!
 ## features ##
 
 *   repeat count or forever
-*   palindrome mode for repeat
+*   palindrome mode
 *   event system
 *   20 types of interpolation
 *   easy tweens accumulation on the same pointer
 *   handle boolean, string, and callbacks
-*   time speed control (slow motion or fast forward) - negative times are not handled
+*   time speed control (slow motion or fast forward) - negative time is not handled
 *   asynchronous or synchronous
 *   reusable configurations of tweens
 *   destruction of tweens while running
