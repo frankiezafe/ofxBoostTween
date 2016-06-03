@@ -40,4 +40,4 @@ For the float demo, or:
 
     $ ./example-BoostTween -d rotation
 
-(you geot it, i guess...)
+(you got it, i guess...)
