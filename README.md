@@ -20,10 +20,10 @@ Have fun!
 *   palindrome mode for repeat
 *   event system
 *   20 types of interpolation
+*   easy tweens accumulation on the same pointer
 *   handle boolean, string, and callbacks
 *   time speed control (slow motion or fast forward) - negative times are not handled
 *   asynchronous or synchronous
-*   easy tweens accumulation on the same pointer
 *   reusable configurations of tweens
 *   destruction of tweens while running
 
